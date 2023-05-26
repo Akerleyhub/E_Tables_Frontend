@@ -7,6 +7,11 @@ React, Tailwind, Socketio
 The goal of this project was to attempt to optimize the resteraunt industry. The end user would come into a resteraunt and scan a QR code. This would take them to the ordering page. From here they would order their drinks/meals and pay virtually(3rd party service). This would greatly reduce the need for waitstaff and quicken the process of fulfilling orders. Adding new businesses would be possible via the UI as well where a json would be generated and sent to the backend to be parsed and added to db.
 Did not get to finish this project but the core functionality was there. 
 
+![Login Page](https://github.com/Akerleyhub/E_Tables_Frontend/blob/main/Images_of_page/Login.png)
+![Customer View](https://github.com/Akerleyhub/E_Tables_Frontend/blob/main/Images_of_page/OrderingFromTable.png)
+![Checkout](https://github.com/Akerleyhub/E_Tables_Frontend/blob/main/Images_of_page/CheckoutPage.png)
+![What waitstaff see, cook is similar](https://github.com/Akerleyhub/E_Tables_Frontend/blob/main/Images_of_page/Waitstaff.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Should have used Vite(it's faster). Next time.
 
